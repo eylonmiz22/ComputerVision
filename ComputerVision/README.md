@@ -1,7 +1,7 @@
 # **Computer Vision** #
 
 <p align="center">
-  <img width=300 height=200 src="CV.gif">
+  <img width=250 height=180 src="CV.gif">
 </p>
 
 This repository includes some projects in the field of Computer Vision.
