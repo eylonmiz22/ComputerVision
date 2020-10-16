@@ -5,7 +5,9 @@
 </p>
 
 This project represents an implementation of an image convolution operator. This project is the solution to a midterm assignment that was given as part of a course.
+
 The assignment was to implement an image convolution from scratch, which allows a different kind of parameters as sliding window size, window step size, etc.
+
 For more information, the midterm is attached as a pdf file (Note that part 1 of this midterm is excluded. This implementation regards to part 2 of the midterm).
 
 ## Instructions: ##
