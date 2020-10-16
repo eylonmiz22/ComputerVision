@@ -17,7 +17,7 @@ The project includes state-of-the-art tools and technologies from the world of C
 ## Instructions: ##
 Please use the dataset from the link: https://www.kaggle.com/eylonmizrahi/globalwheat
 This link includes the global-wheat-detection dataset and the model weights used in this project.
-For more information, open the assignment file or the notebooks themselves. Also, it is recommanded to visit the links supplied in this document.
+For more information, open the assignment file or the notebooks themselves. Also, it is recommended to visit the links supplied in this document.
 Note that one of the notebooks includes the whole code of the project, while the other is in the submission format of Kaggle's global-wheat-detection contest.
 
 ## Credits and References: ##
