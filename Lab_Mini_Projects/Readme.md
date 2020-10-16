@@ -1,4 +1,4 @@
-# **Vision Quests** #
+# **Exercises / Labs** #
 
 <p align="center">
   <img width=200 height=100 src="study.gif">
