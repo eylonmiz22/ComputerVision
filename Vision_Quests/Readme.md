@@ -16,6 +16,7 @@ This folder contains three different projects that were given as part of the Com
 
 ## Instructions: ##
 The relevant notebooks are available, but the model weights and the faces dataset are not due to privacy issues. It is only possible to use the code, and examine the results.
+
 More information is found in the assignment .pdf files.
 
 
