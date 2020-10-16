@@ -6,3 +6,5 @@
 
 This repository includes some projects in the field of Computer Vision.
 Each project has its relevant description given by a pdf file, inside the current repository.
+
+**Programming Languages:** Python.
