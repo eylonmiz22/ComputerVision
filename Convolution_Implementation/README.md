@@ -1,7 +1,7 @@
 # **Image Convolution** #
 
 <p align="center">
-  <img width=300 height=180 src="Convolution.gif">
+  <img width=340 height=210 src="Convolution.gif">
 </p>
 
 This project represents an implementation of an image convolution operator. This project was given as a course midterm.
