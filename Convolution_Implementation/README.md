@@ -12,4 +12,4 @@ For more information, visit the attached pdf file that includes the midterm assi
 
 ## Instructions: ##
 Please upload the photos from the directory called "data/inputs" into the notebook, and run the notebook.
-More explemations can be found in the report.pdf file.
+More explanations can be found in the report.pdf file.
