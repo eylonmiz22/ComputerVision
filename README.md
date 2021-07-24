@@ -5,6 +5,10 @@
 </p>
 
 This repository includes some projects in the field of Computer Vision.
-Each project has its relevant description given by a pdf file, inside the current repository.
+Each project has its relevant description given by a pdf file, inside this current repository.
 
-**Programming Languages:** Python.
+## Requirements
+
+* Python3
+
+* Pytorch
